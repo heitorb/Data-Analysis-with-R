@@ -11,7 +11,7 @@ Table of Contents
 
   * [R Kernel for Jupyter](#ch-1-)
   * [Ch 1: Importing Data in R (CSV, XLS)](#ch-2-)
-  * [Ch 2: Cleaning Data in R](#ch-2-)
+  * [Ch 2: Data Wrangling in R](#ch-2-)
   * [Ch 3: Data Manipulation with dplyr](#ch-2-)
   * [Ch 4: Data Visualization with ggplot2](#ch-2-)
   * [Ch 5: Data Visualization with Shiny](#ch-2-)
